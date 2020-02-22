@@ -1,38 +1,25 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
-    "version": "4.0.9",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://startbootstrap.com/template-overviews/clean-blog",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "name": "hux-blog",
+    "title": "Hux Blog",
+    "author": "Hux <huxpro@gmail.com>",
+    "version": "1.8.2",
+    "homepage": "http://huxpro.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/Huxpro/huxpro.github.io"
     },
-    "dependencies": {
-        "bootstrap": "4.3.1",
-        "font-awesome": "4.7.0",
-        "jquery": "3.4.1",
-        "startbootstrap-clean-blog": "5.0.8"
-    },
+    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
-        "browser-sync": "2.26.7",
-        "gulp": "4.0.2"
+        "grunt": "~0.4.5",
+        "grunt-contrib-less": "~0.11.4",
+        "grunt-contrib-watch": "~0.6.1",
+        "grunt-banner": "~0.2.3",
+        "grunt-contrib-uglify": "~0.5.1"
+    },
+    "scripts": {
+        "start" : "jekyll serve -w -l --host 0.0.0.0 --port 4000",
+        "dev"   : "grunt watch & npm run start",
+        "boil"  : "git push boilerplate boilerplate:master",
+        "push"  : "git push origin master --tag"
     }
 }
