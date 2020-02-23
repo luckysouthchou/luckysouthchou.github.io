@@ -102,11 +102,6 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        -
-    }
+    
 ]
 gems: [jekyll-paginate]
