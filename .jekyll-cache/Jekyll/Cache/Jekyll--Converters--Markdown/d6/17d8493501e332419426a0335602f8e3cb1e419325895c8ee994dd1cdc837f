@@ -1,0 +1,100 @@
+I"�
+<p>昨晚上刚学习了markdown的用法
+简直好用，呵呵，很简单
+可以制作表格（不想做表各，看着就烦，呵呵）
+—
+引用代码
+‘print(‘hello world’)’</p>
+
+<hr />
+
+<hr />
+<p>t  h  i  s  i  s  a  s  h  i  t
+你  是  不  是  啊
+—</p>
+
+<p>’’’
+This is
+a
+piece
+of
+code
+test
+‘’’
+分隔栏
+—
+引用别人的话</p>
+<blockquote>
+  <p>我们都是飞在天上的猪
+         -周某人
+—</p>
+</blockquote>
+
+<p>还有几集标题</p>
+<h1 id="大">大</h1>
+
+<h2 id="中">中</h2>
+
+<h3 id="小">小</h3>
+
+<h4 id="更小">更小</h4>
+<hr />
+
+<blockquote>
+  <p>饮用水啊</p>
+  <blockquote>
+    <p>食用油啊</p>
+    <blockquote>
+      <h2 id="继续吃啊">继续吃啊</h2>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<ol>
+  <li>表单</li>
+  <li>来啦</li>
+  <li>试试</li>
+</ol>
+
+<hr />
+
+<hr />
+<ol>
+  <li>表</li>
+  <li>单
+    <ul>
+      <li>混合</li>
+      <li>混合</li>
+    </ul>
+  </li>
+  <li>结束</li>
+</ol>
+
+<hr />
+<p>不强调
+<em>强调</em>
+<strong>大强调</strong>
+—</p>
+
+<h2 id="在线linke啊-httpswwwgooglecomsearchqpicturegooglerlz1c5chfa_enca874ca874sxsrfalekk02eyb72qlhzr1mqhrppswjapk23jq1582382089879sourcelnmstbmischsaxved2ahukewju0_bssoxnahujneakhvz7dj4q_auoaxoeca8qawbiw1091bih852imgrc5__thxee-a6dsm">[在线linke啊] (https://www.google.com/search?q=picture+google&amp;rlz=1C5CHFA_enCA874CA874&amp;sxsrf=ALeKk02eYb72qlhZR1MqhRPpsWjAPK23jQ:1582382089879&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwju0_bSsOXnAhUJneAKHVz7DJ4Q_AUoAXoECA8QAw&amp;biw=1091&amp;bih=852#imgrc=5__tHXEE-a6DSM)</h2>
+<p><a href="https://en.support.wordpress.com/markdown-quick-reference/">参考文献</a>和<a href="https://www.google.com/search?q=picture+google&amp;rlz=1C5CHFA_enCA874CA874&amp;sxsrf=ALeKk02eYb72qlhZR1MqhRPpsWjAPK23jQ:1582382089879&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwju0_bSsOXnAhUJneAKHVz7DJ4Q_AUoAXoECA8QAw&amp;biw=1091&amp;bih=852#imgrc=5__tHXEE-a6DSM">参考文献</a></p>
+
+<hr />
+<p>在线图片：
+<img src="https://www.google.com/search?q=picture+google&amp;rlz=1C5CHFA_enCA874CA874&amp;sxsrf=ALeKk02eYb72qlhZR1MqhRPpsWjAPK23jQ:1582382089879&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwju0_bSsOXnAhUJneAKHVz7DJ4Q_AUoAXoECA8QAw&amp;biw=1091&amp;bih=852#imgrc=5__tHXEE-a6DSM" alt="Alt" />
+![] (https://en.support.wordpress.com/markdown-quick-reference/)
+—</p>
+
+<p>我有别的想说的，在后面<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+
+<p>我来试试
+看看用起来效果如何</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>其实没什么，我在测试而已 <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

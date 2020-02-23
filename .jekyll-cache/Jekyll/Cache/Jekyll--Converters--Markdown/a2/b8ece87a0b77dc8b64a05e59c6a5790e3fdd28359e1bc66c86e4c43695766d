@@ -1,0 +1,51 @@
+I"�<p>zsh自己就更新了
+也不知道咋的，atom就用不上了。
+一直提示flake8没有安装对路径。</p>
+
+<p>后来根据一个日本人写的提示才弄对了</p>
+
+<p>open ~/.bash_profile</p>
+
+<p>找到conda的文件如下：（复制所有的）</p>
+<h1 id="added-by-anaconda3-530-installer">added by Anaconda3 5.3.0 installer</h1>
+<h1 id="-conda-init">»&gt; conda init »&gt;</h1>
+<h1 id="-contents-within-this-block-are-managed-by-conda-init-">!! Contents within this block are managed by ‘conda init’ !!</h1>
+<p>__conda_setup=”$(CONDA_REPORT_ERRORS=false ‘/anaconda3/bin/conda’ shell.bash hook 2&gt; /dev/null)”
+if [ $? -eq 0 ]; then
+    \eval “$__conda_setup”
+else
+    if [ -f “/anaconda3/etc/profile.d/conda.sh” ]; then
+        . “/anaconda3/etc/profile.d/conda.sh”
+        CONDA_CHANGEPS1=false conda activate base
+    else
+        \export PATH=”/anaconda3/bin:$PATH”
+    fi
+fi
+unset __conda_setup</p>
+<h1 id="-conda-init-">«&lt; conda init «&lt;</h1>
+
+<p>再打开，粘贴进去
+open ~/.zshrc
+再执行
+source ~/.zshrc</p>
+
+<p>这下conda就能在当前用了
+最后再执行：
+conda install flake8
+问题成功解决</p>
+
+<hr />
+<p>补上oh my zsh的使用
+用起来清爽多了呵呵</p>
+
+<p>安装 如下：
+sh -c “$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)”</p>
+
+<p>还可以自己选择主题</p>
+
+<hr />
+<p>iTerm2
+清爽好多啊 UI真的好看
+呵呵，用了就回不去
+以后要多探索</p>
+:ET
