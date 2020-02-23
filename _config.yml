@@ -1,11 +1,11 @@
 # Site settings
 title: Cingnan Blog
 SEOTitle: 周幸楠的博客 | Cingnan Blog
-header-img: img/home-bg.jpg
+header-img: img/me-lucky.jpeg
 email: zhouxingnan2016@gmail.com
-description: "关于程序 | 周幸楠，Web & Mobile Lover，Traffic Engineer| 这里是 @Hux周幸楠 的个人博客，与你一起发现更大的世界。"
-keyword: "周幸楠, Cingnan, Cingnan,  @huxpro, 周幸楠的博客, Cingnan Blog, 博客, 个人网站, 互联网, Python"
-url: "www.zhouxingnan.com"              # your host, for absolute URL
+description: "关于程序 | 周幸楠，Traffic Engineer| 这里是 @Cingnan 周某人不会倒闭的个人博客。"
+keyword: "周幸楠, Cingnan, Cingnan,  @huxpro, 周幸楠的博客, Cingnan Blog, 博客, 个人网站, Python"
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     保姆狗001
-zhihu_username:     huxpro
+zhihu_username:     周星星
 github_username:    luckysouthchou
 twitter_username:   ChouLuckysouth
 #facebook_username:  huxpro
@@ -71,15 +71,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "你所做的一切事情，都将深深的刻在过去<br>如果有来生，我一定当只狗"
+sidebar-avatar: img/in-post/datou-lucky.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
