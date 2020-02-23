@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "你所做的一切事情，都将深深的刻在过去<br>如果有来生，我一定当只狗"
+sidebar-about-description: "如果害怕这个世界的更新速度<br>那就用自己苟延残喘的学习能力去挖掘"
 sidebar-avatar: /img/datou-lucky.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
