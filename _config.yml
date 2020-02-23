@@ -5,7 +5,7 @@ header-img: img/home-bg-art.jpg
 email: zhouxingnan2016@gmail.com
 description: "关于程序 | 周幸楠，Traffic Engineer| 这里是 @Cingnan 周某人不会倒闭的个人博客。"
 keyword: "周幸楠, Cingnan, Cingnan,  @huxpro, 周幸楠的博客, Cingnan Blog, 博客, 个人网站, Python"
-url: ""              # your host, for absolute URL
+url: "https://www.zhouxingnan.com/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "你所做的一切事情，都将深深的刻在过去<br>如果有来生，我一定当只狗"
-sidebar-avatar: img/datou-lucky.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/datou-lucky.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
