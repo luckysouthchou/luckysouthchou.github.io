@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     保姆狗001
-zhihu_username:     周星星
+weibo_username:     1836954672
+#zhihu_username:     周星星
 github_username:    luckysouthchou
 twitter_username:   ChouLuckysouth
-#facebook_username:  huxpro
+facebook_username:  Chou Luckysouth 
 #linkedin_username:  firstname-lastname-idxxxx
 
 
