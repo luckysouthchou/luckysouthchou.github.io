@@ -14,6 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     1836954672
+youtube_username:    luckysouth
 #zhihu_username:     周星星
 github_username:    luckysouthchou
 twitter_username:   ChouLuckysouth
