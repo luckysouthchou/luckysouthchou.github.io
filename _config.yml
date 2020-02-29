@@ -103,6 +103,9 @@ page-mathjax: false
 
 # Friends
 friends: [
-
+            {
+                    title: "faith",
+                    href: "https://academic.faithio.cn"
+                }
 ]
 gems: [jekyll-paginate]
