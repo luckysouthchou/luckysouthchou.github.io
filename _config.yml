@@ -8,6 +8,9 @@ keyword: "周幸楠, Cingnan, Cingnan,  @huxpro, 周幸楠的博客, Cingnan Blo
 url: "https://www.zhouxingnan.com/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
+google_analytics: 'UA-159388298-1'
+
+
 # Publish posts or collection documents with a future date.
 future: true
 
@@ -15,7 +18,7 @@ future: true
 RSS: false
 weibo_username:     1836954672
 youtube_username:  channel/UC6GsCmpXiaRbhB3E6Y1lIuQ
-googlescholar_username:   zEmmDhgAAAAJ
+googlescholar_username: zEmmDhgAAAAJ
 #zhihu_username:     周星星
 github_username:    luckysouthchou
 twitter_username:   ChouLuckysouth
