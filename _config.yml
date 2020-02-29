@@ -15,7 +15,8 @@ future: true
 RSS: false
 weibo_username:     1836954672
 youtube_username:  channel/UC6GsCmpXiaRbhB3E6Y1lIuQ
-gs_username:  citations?user=zEmmDhgAAAAJ
+
+Google Scholar id :  citations?user=zEmmDhgAAAAJ
 #zhihu_username:     周星星
 github_username:    luckysouthchou
 twitter_username:   ChouLuckysouth
@@ -106,7 +107,7 @@ page-mathjax: false
 friends: [
             {
                     title: "faith",
-                    href: "https://academic.faithio.cn"
+                    href: "https://faithio.cn/"
                 }
 ]
 gems: [jekyll-paginate]
